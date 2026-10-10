@@ -1,0 +1,198 @@
+{
+  "categories": [
+    {
+      "id": "entradas",
+      "name": "Entradas"
+    },
+    {
+      "id": "fuertes",
+      "name": "Platos fuertes"
+    },
+    {
+      "id": "postres",
+      "name": "Postres"
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas"
+    }
+  ],
+  "items": [
+    {
+      "id": "plato-1",
+      "name": "Ensalada de la huerta",
+      "description": "Hojas frescas, vegetales de temporada y vinagreta de limón.",
+      "price": 185,
+      "category": "entradas",
+      "image": "/images/ensalada.jpg",
+      "alt": "Presentación ilustrativa de ensalada de la huerta",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-2",
+      "name": "Tomates de temporada",
+      "description": "Tomates maduros, hierbas frescas y aceite de oliva.",
+      "price": 165,
+      "category": "entradas",
+      "image": "/images/tomate.jpg",
+      "alt": "Presentación ilustrativa de tomates de temporada",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-3",
+      "name": "Ensalada de hojas y semillas",
+      "description": "Hojas crujientes, semillas tostadas y aderezo de la casa.",
+      "price": 175,
+      "category": "entradas",
+      "image": "/images/ensalada.jpg",
+      "alt": "Presentación ilustrativa de ensalada de hojas y semillas",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-4",
+      "name": "Vegetales al centro",
+      "description": "Selección de vegetales, hojas y aceite de hierbas.",
+      "price": 195,
+      "category": "entradas",
+      "image": "/images/tomate.jpg",
+      "alt": "Presentación ilustrativa de vegetales al centro",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-5",
+      "name": "Corte a las brasas",
+      "description": "Carne sellada al fuego con vegetales y jugo de cocción.",
+      "price": 485,
+      "category": "fuertes",
+      "image": "/images/brasa.jpg",
+      "alt": "Presentación ilustrativa de corte a las brasas",
+      "tags": [],
+      "available": true
+    },
+    {
+      "id": "plato-6",
+      "name": "Pasta verde de la casa",
+      "description": "Pasta con pesto de hierbas, queso y aceite de oliva.",
+      "price": 295,
+      "category": "fuertes",
+      "image": "/images/pasta.jpg",
+      "alt": "Presentación ilustrativa de pasta verde de la casa",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-7",
+      "name": "Salmón al horno",
+      "description": "Filete de salmón con vegetales y un toque de limón.",
+      "price": 395,
+      "category": "fuertes",
+      "image": "/images/salmon.jpg",
+      "alt": "Presentación ilustrativa de salmón al horno",
+      "tags": [],
+      "available": true
+    },
+    {
+      "id": "plato-8",
+      "name": "Brasa con carácter",
+      "description": "Corte al fuego, guarnición de temporada y salsa de chile.",
+      "price": 465,
+      "category": "fuertes",
+      "image": "/images/brasa.jpg",
+      "alt": "Presentación ilustrativa de brasa con carácter",
+      "tags": ["Picante"],
+      "available": true
+    },
+    {
+      "id": "plato-9",
+      "name": "Pastel de chocolate",
+      "description": "Bizcocho de cacao con una cobertura de chocolate.",
+      "price": 155,
+      "category": "postres",
+      "image": "/images/chocolate.jpg",
+      "alt": "Presentación ilustrativa de pastel de chocolate",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-10",
+      "name": "Tarta de temporada",
+      "description": "Pastelería de la casa para acompañar la sobremesa.",
+      "price": 145,
+      "category": "postres",
+      "image": "/images/pastel.jpg",
+      "alt": "Presentación ilustrativa de tarta de temporada",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-11",
+      "name": "Chocolate para compartir",
+      "description": "Una porción generosa de pastel de cacao al centro.",
+      "price": 225,
+      "category": "postres",
+      "image": "/images/chocolate.jpg",
+      "alt": "Presentación ilustrativa de chocolate para compartir",
+      "tags": ["Vegetariano"],
+      "available": true
+    },
+    {
+      "id": "plato-12",
+      "name": "El dulce de la casa",
+      "description": "Una rebanada de pastel para cerrar sin prisa.",
+      "price": 150,
+      "category": "postres",
+      "image": "/images/pastel.jpg",
+      "alt": "Presentación ilustrativa de el dulce de la casa",
+      "tags": ["Vegetariano"],
+      "available": false
+    },
+    {
+      "id": "plato-13",
+      "name": "Café de sobremesa",
+      "description": "Café recién preparado, servido caliente.",
+      "price": 65,
+      "category": "bebidas",
+      "image": "/images/cafe.jpg",
+      "alt": "Presentación ilustrativa de café de sobremesa",
+      "tags": [],
+      "available": true
+    },
+    {
+      "id": "plato-14",
+      "name": "Copa de la casa",
+      "description": "Cóctel de temporada con cítricos y hierbas. Contiene alcohol.",
+      "price": 165,
+      "category": "bebidas",
+      "image": "/images/coctel.jpg",
+      "alt": "Presentación ilustrativa de copa de la casa",
+      "tags": [],
+      "available": true
+    },
+    {
+      "id": "plato-15",
+      "name": "Refresco cítrico",
+      "description": "Bebida fresca de cítricos, hielo y hierbas.",
+      "price": 85,
+      "category": "bebidas",
+      "image": "/images/limonada.jpg",
+      "alt": "Presentación ilustrativa de refresco cítrico",
+      "tags": [],
+      "available": true
+    },
+    {
+      "id": "plato-16",
+      "name": "Café con leche",
+      "description": "Café y leche caliente para alargar la conversación.",
+      "price": 80,
+      "category": "bebidas",
+      "image": "/images/cafe.jpg",
+      "alt": "Presentación ilustrativa de café con leche",
+      "tags": [],
+      "available": true
+    }
+  ]
+}

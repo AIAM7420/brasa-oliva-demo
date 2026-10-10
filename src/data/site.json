@@ -1,0 +1,114 @@
+{
+  "name": "Brasa & Oliva",
+  "tagline": "El fuego nos reúne.",
+  "description": "Cocina contemporánea, ingredientes de temporada y el placer de compartir la mesa.",
+  "phone": null,
+  "email": null,
+  "reservationUrl": null,
+  "locationIsReal": false,
+  "mapUrl": null,
+  "socials": [],
+  "address": "Calle del Olivo 24, Ciudad de México. Dirección ficticia de demostración.",
+  "hours": [
+    {
+      "days": "Martes a jueves",
+      "time": "13:00 — 22:00"
+    },
+    {
+      "days": "Viernes y sábado",
+      "time": "13:00 — 23:00"
+    },
+    {
+      "days": "Domingo",
+      "time": "13:00 — 18:00"
+    },
+    {
+      "days": "Lunes",
+      "time": "Descanso"
+    }
+  ],
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Inicio"
+    },
+    {
+      "href": "/nosotros",
+      "label": "La casa"
+    },
+    {
+      "href": "/menu",
+      "label": "Menú"
+    },
+    {
+      "href": "/valores",
+      "label": "Nuestra esencia"
+    },
+    {
+      "href": "/contacto",
+      "label": "Contacto"
+    }
+  ],
+  "home": {
+    "introTitle": "Una cocina que empieza en el origen.",
+    "intro": "El aroma de la leña, un ingrediente en su mejor momento y una mesa sin prisa. Así imaginamos Brasa & Oliva: un encuentro entre la cocina de temporada y el calor de casa.",
+    "chefTitle": "Menos artificio. Más ingrediente.",
+    "chef": "Una filosofía sencilla: escuchar la temporada, trabajar con cuidado y dejar que el fuego haga lo suyo. Nuestra propuesta ficticia celebra lo cercano, de la primera entrada al último café.",
+    "heroNote": "Cocina de temporada. Sobremesas sin prisa.",
+    "heroLine1": "El fuego",
+    "heroLine2": "nos reúne.",
+    "heroDescription1": "Ingredientes honestos. Una brasa encendida.",
+    "heroDescription2": "Siempre hay lugar para una buena mesa.",
+    "heroButton": "Descubre nuestro menú",
+    "introNote": "Bienvenido a la casa",
+    "featuredNote": "De nuestra cocina",
+    "featuredTitle": "Para abrir el apetito.",
+    "atmosphereNote": "Quédate un poco más",
+    "atmosphereTitle1": "La mejor parte",
+    "atmosphereTitle2": "es compartirlo.",
+    "atmosphereDescription1": "Luz cálida, una conversación pendiente",
+    "atmosphereDescription2": "y algo rico al centro de la mesa.",
+    "closingNote": "Tu próxima sobremesa empieza aquí.",
+    "closingTitle": "Nos vemos a la mesa."
+  },
+  "story": {
+    "title": "La buena mesa tiene algo de hogar.",
+    "intro": "Brasa & Oliva nace de una idea: cocinar con tiempo para que tú puedas olvidarte de él. Una casa imaginaria para conversaciones largas y platos al centro.",
+    "sections": [
+      {
+        "title": "La cocina",
+        "text": "El fuego es nuestro punto de encuentro. Vegetales, pastas y cortes comparten una carta pensada para descubrir sabores sin perder la sencillez."
+      },
+      {
+        "title": "La mesa",
+        "text": "Luz cálida, materiales naturales y un servicio atento. Cada detalle acompaña a lo más importante: las personas con quienes compartes."
+      },
+      {
+        "title": "Las personas",
+        "text": "Lucía Robles, chef creativa, y Mateo Ríos, anfitrión, dan voz a este concepto. Ambos son personajes ficticios creados para esta demostración."
+      }
+    ]
+  },
+  "values": [
+    {
+      "title": "El ingrediente primero",
+      "text": "Pensamos cada plato desde su ingrediente principal y su mejor temporada."
+    },
+    {
+      "title": "Hospitalidad sin prisa",
+      "text": "Una bienvenida cercana, atención clara y espacio para disfrutar a tu ritmo."
+    },
+    {
+      "title": "Creatividad con sentido",
+      "text": "Exploramos nuevas combinaciones sin ocultar el sabor del producto."
+    },
+    {
+      "title": "Cuidado en cada decisión",
+      "text": "Nuestra propuesta aspira a aprovechar mejor los ingredientes y reducir desperdicios. No representa una certificación."
+    },
+    {
+      "title": "Una experiencia completa",
+      "text": "El ambiente, la cocina y la conversación importan por igual."
+    }
+  ]
+}
